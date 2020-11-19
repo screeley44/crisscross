@@ -2,7 +2,7 @@
 SHELL := /bin/bash
 
 # Options
-ORG_NAME=hasheddan
+ORG_NAME=screeley44
 PROVIDER_NAME=crisscross
 
 build: generate test

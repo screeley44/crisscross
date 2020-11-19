@@ -4,4 +4,4 @@ metadata:
   name: crisscross
 spec:
   controller:
-    image: hasheddan/crisscross-controller:latest
+    image: screeley44/crisscross-controller:latest
