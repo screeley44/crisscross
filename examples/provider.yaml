@@ -3,7 +3,7 @@ kind: Provider
 metadata:
   name: crisscross
 spec:
-  package: hasheddan/crisscross:latest
+  package: screeley44/crisscross:latest
   revisionActivationPolicy: Automatic
   revisionHistoryLimit: 1
   controllerConfigRef:
